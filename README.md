@@ -1,15 +1,13 @@
-联系方式 # 个人信息 # 学习/工作 经历 # 技能
-
-联系方式
+# 联系方式
 - 邮箱：kingrq932@sina.com
 - 手机：134 3388 3433
 
-个人信息
-姓名：王瑞琦     性别：男     出生：1996.11     年龄：24
-学历：全日制本科(2020.7 毕业)
-专业：计算机科学与技术（网络工程方向)
-居住地：广州市番禺区（本地人，可接受出差）
-期望职位：运维／开发／测试／售前
+# 个人信息
+- 姓名：王瑞琦     性别：男     出生：1996.11     年龄：24
+- 学历：全日制本科(2020.7 毕业)
+- 专业：计算机科学与技术（网络工程方向)
+- 居住地：广州市番禺区（本地人，可接受出差）
+- 期望职位：运维／开发／测试／售前
 
 学习\工作 经历
 2019.9 - 2021.7       广东白云学院(全日制本科)                计算机科学与技术
@@ -47,19 +45,20 @@ PC端软件升级，机房维护。
 简述：主要学习，数电，模电，单片机原理。
 Linux系统移植，Qt，Linux编程，S3C2440，STC89C51，AD15。
 
-技能
-操作系统 | CentOS7.6，Ubuntu16.04，Windows Server 2012 R2，Raspberry Pi 3b +
-系统管理 | systemd，busybox，bash，iptable，grep, sed, awk，ssh 等...
-容器管理 | docker，k8s
-开发平台 | .Net Core，Spring Boot，NodeJs，Linux编程，Angular 9
-常用云厂商 | 阿里云，腾讯云，华为云，Ucloud，三丰云
-常用服务器应用 | nginx，redise，mysql，bind9，ftpd，sshd 等...
+# 技能
+- 操作系统 | CentOS7.6，Ubuntu16.04，Windows Server 2012 R2，Raspberry Pi 3b +
+- 系统管理 | systemd，busybox，bash，iptable，grep, sed, awk，ssh 等...
+- 容器管理 | docker，k8s
+- 开发平台 | .Net Core，Spring Boot，NodeJs，Linux编程，Angular 9
+- 常用云厂商 | 阿里云，腾讯云，华为云，Ucloud，三丰云
+- 常用服务器应用 | nginx，redise，mysql，bind9，ftpd，sshd 等...
 
-C/C++     ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-C#        ⭐⭐⭐⭐⭐⭐⭐⭐
-JAVA      ⭐⭐⭐⭐⭐
-SQL       ⭐⭐⭐⭐⭐
-HTML      ⭐⭐⭐⭐
-JS        ⭐⭐⭐
-自评
+- C/C++     ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+- C#        ⭐⭐⭐⭐⭐⭐⭐⭐
+- JAVA      ⭐⭐⭐⭐⭐
+- SQL       ⭐⭐⭐⭐⭐
+- HTML      ⭐⭐⭐⭐
+- JS        ⭐⭐⭐
+- 自评
+
 普通打工人 ... 😑
