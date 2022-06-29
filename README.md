@@ -1,5 +1,5 @@
 # 联系方式
-- 邮箱：richard9578@icloud.com
+- 邮箱：richard9578@outlook.com
 - 微信：richard9578‬
 
 # 个人信息
