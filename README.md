@@ -1,5 +1,5 @@
 # 联系方式
-- 邮箱：geratabis22@gmail.com
+- 邮箱：richard0587@outlook.com
 - 微信：17862881023‬
 
 # 个人信息
