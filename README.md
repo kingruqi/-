@@ -1,6 +1,6 @@
 # 联系方式
-- 邮箱：richard0587@outlook.com
-- 微信：richard0587‬
+- 邮箱：geratabis22@gmail.com
+- 微信：17862881023‬
 
 # 个人信息
 - 姓名：王瑞琦     性别：男     出生：1996.11
